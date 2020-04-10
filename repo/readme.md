@@ -15,5 +15,5 @@
 <TR><TD><a href="repository.sarsaila-1.1.0.zip">repository.sarsaila-1.1.0.zip</a></td><td>file</td><td>5245</td></TR>
 <TR><TD><a href="repository.t4krepo-1.1.8.zip">repository.t4krepo-1.1.8.zip</a></td><td>file</td><td>1240</td></TR>
 <TR><TD><a href="repository.turkvod-2.2.1.zip">repository.turkvod-2.2.1.zip</a></td><td>file</td><td>53891</td></TR>
-<TR><TD><a href="script.module.phate89-master.zip">script.module.phate89-master.zip</a></td><td>file</td><td>18061</td></TR>
+<TR><TD><a href="repository.sarsaila-1.1.0.zip">repository.sarsaila-1.1.0.zip</a></td><td>file</td><td>5245</td></TR>
 </TABLE>
