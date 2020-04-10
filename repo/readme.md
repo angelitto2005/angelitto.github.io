@@ -1,4 +1,9 @@
 ## Welcome to Angelitto's Repo
 
 <a href="repository.sarsaila-1.1.0.zip">repository.sarsaila-1.1.0.zip</a><br>
-<a href="repository.eim.forqed-3.6.zip">repository.eim.forqed-3.6.zip</a>
+<a href="repository.eim.forqed-3.6.zip">repository.eim.forqed-3.6.zip</a><br>
+<a href="repository.openmeta-1.4.zip">repository.openmeta-1.4.zip</a><br>
+<a href="repository.jurialmunkey-1.2.zip">repository.jurialmunkey-1.2.zip</a><br>
+<a href="repository.kodibae-3.0.0.zip">repository.kodibae-3.0.0.zip</a><br>
+<a href="repository.polux-1.0.8.zip">repository.polux-1.0.8.zip</a><br>
+<a href="repository.universalscrapers-1.0.0.zip">repository.universalscrapers-1.0.0.zip</a><br>
