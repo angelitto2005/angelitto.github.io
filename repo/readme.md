@@ -4,7 +4,7 @@
 <a href="repository.jurialmunkey-1.2.zip">repository.jurialmunkey-1.2.zip</a><br>
 <a href="repository.kodibae-3.0.0.zip">repository.kodibae-3.0.0.zip</a><br>
 <a href="repository.exodusredux-0.0.9.zip">repository.exodusredux-0.0.9.zip</a><br>
-<a href="repository.cdrepo-9.3">repository.cellardoorrepo-9.3</a><br>
+<a href="repository.cellardoorrepo-9.3">repository.cdrepo-9.3.zip</a><br>
 <a href="repository.kodil-1.3.zip">repository.kodil-1.3.zip</a><br>
 <a href="repository.polux-1.0.8.zip">repository.polux-1.0.8.zip</a><br>
 <a href="repository.universalscrapers-1.0.0.zip">repository.universalscrapers-1.0.0.zip</a><br>
