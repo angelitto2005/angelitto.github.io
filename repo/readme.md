@@ -12,4 +12,4 @@
 <a href="repository.yt.testing_official-2.0.0.zip">repository.yt.testing_official-2.0.0.zip</a><br>
 <hr>
 <a href="plugin.video.romanianpack-1.1.18.zip">plugin.video.romanianpack-1.1.18.zip</a><br>
-<a href="plugin.video.themoviedb.helper-4.0.65.zip">plugin.video.themoviedb.helper-4.0.65.zip</a><br>
+<a href="plugin.video.themoviedb.helper-4.0.77.zip">plugin.video.themoviedb.helper-4.0.77.zip</a><br>
